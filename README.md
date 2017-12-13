@@ -6,7 +6,7 @@
 # install git ref: https://git-scm.com/downloads
 
 # 2. clone this project 
-git clone git+https://github.com/huanguolin/3weeks3pages-template.git
+git clone https://github.com/huanguolin/3weeks3pages-template.git
 
 # 3. install dependencies
 snpm install 
