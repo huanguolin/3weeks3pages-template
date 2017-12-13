@@ -10,13 +10,15 @@
    node.js 请参考: https://nodejs.org/en/download/   
    git 请参考: https://git-scm.com/downloads   
 
-2. 把本工程克隆到本地    
-   命令行推荐使用 powerShell 或者 git bash。   
-   安装 git 时默认会安装 git bash, 使用时在文件夹中右键选择 git bash 即可，并且路径自动切换到该文件夹。   
-   windows cmd 不方便操作，最要命的是不能自动更新 path 环境变量（如安装node后,使用node命令会提示找不到node命令）。   
+2. 把本工程克隆到本地   
 ```bash
 git clone https://github.com/huanguolin/3weeks3pages-template.git
-```
+```   
+> 注意：
+> 命令行推荐使用 powerShell 或者 git bash。   
+> 安装 git 时默认会安装 git bash, 使用时在文件夹中右键选择 git bash 即可，并且路径自动切换到该文件夹。   
+> windows cmd 不方便操作，最要命的是不能自动更新 path 环境变量（如安装node后,使用node命令会提示找不到node命令）。   
+
 
 3. 安装工程依赖
 ```bash
