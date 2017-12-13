@@ -16,8 +16,8 @@ cnpm install
 npm install
 
 # 4. watch and build scss to css
-gulp watch
+npm run gulp watch
 
 # 5. build scss to css
-gulp 
+npm run gulp 
 ``` 

@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/huanguolin/3weeks3pages-template.git"
   },
+  "scripts": {
+    "gulp": "gulp"
+  },
   "author": "huanguolin@outlook.com",
   "license": "MIT",
   "bugs": {
