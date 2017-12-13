@@ -1,0 +1,21 @@
+
+// color
+$fg-color: white;
+$bg-color: #41b883;
+
+// size
+$main-width: 500px;
+
+div {
+    width: $main-width;
+    margin: 50px auto;
+    padding: 20px;
+    color: $fg-color;
+    background: $bg-color;
+    border-radius: 5px;
+    text-align: center; 
+
+    p {
+        font-weight: bolder;
+    }
+}

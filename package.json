@@ -1,0 +1,21 @@
+{
+  "name": "3weeks3pages-template",
+  "version": "1.0.0",
+  "description": "A template for 3-weeks-3-pages practice.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huanguolin/3weeks3pages-template.git"
+  },
+  "author": "huanguolin@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huanguolin/3weeks3pages-template/issues"
+  },
+  "homepage": "https://github.com/huanguolin/3weeks3pages-template#readme"
+}
